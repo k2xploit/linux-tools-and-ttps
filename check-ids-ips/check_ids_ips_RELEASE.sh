@@ -15,7 +15,6 @@
 # Made by k2xploit
 #
 
-#!/bin/bash
 
 echo "Checking for IDS/IPS configurations on the system..."
 
