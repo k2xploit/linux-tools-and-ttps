@@ -14,6 +14,8 @@
 #
 # Made by k2xploit
 # Official github repo: https://github.com/k2xploit/linux-tools-and-ttps/tree/main/check-ids-ips
+#
+# This tool is intended for educational and authorized testing purposes only.
 
 echo "Checking for IDS/IPS configurations on the system..."
 
