@@ -13,8 +13,7 @@
 # GNU General Public License for more details.
 #
 # Made by k2xploit
-#
-
+# Official github repo: https://github.com/k2xploit/linux-tools-and-ttps/tree/main/check-ids-ips
 
 echo "Checking for IDS/IPS configurations on the system..."
 
