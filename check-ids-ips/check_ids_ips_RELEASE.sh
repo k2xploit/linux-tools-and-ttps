@@ -1,7 +1,10 @@
 #!/bin/bash
 #
 # check_ids_ips.sh — IDS/IPS and firewall checker for Linux systems
+# Author: k2xploit
+# Website: https://github.com/k2xploit/linux-tools-and-ttps/tree/main/check-ids-ips
 #
+# This tool is intended for educational and authorized testing purposes only.
 # This script is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -12,10 +15,9 @@
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
-# Made by k2xploit
-# Official github repo: https://github.com/k2xploit/linux-tools-and-ttps/tree/main/check-ids-ips
-#
-# This tool is intended for educational and authorized testing purposes only.
+# You should have received a copy of the GNU General Public License
+# along with this program. If not, see <https://www.gnu.org/licenses/>.
+
 
 echo "Checking for IDS/IPS configurations on the system..."
 
