@@ -4,7 +4,8 @@
 # Author: k2xploit
 # Website: https://github.com/k2xploit/linux-tools-and-ttps/tree/main/check-ids-ips
 #
-# This tool is intended for educational and authorized testing purposes only.
+# This script is intended for educational and authorized testing purposes only.
+#
 # This script is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
